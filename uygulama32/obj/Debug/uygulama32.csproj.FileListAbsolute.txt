@@ -1,0 +1,10 @@
+C:\Users\NAGAS0\source\repos\uygulama32\uygulama32\bin\Debug\uygulama32.exe.config
+C:\Users\NAGAS0\source\repos\uygulama32\uygulama32\bin\Debug\uygulama32.exe
+C:\Users\NAGAS0\source\repos\uygulama32\uygulama32\bin\Debug\uygulama32.pdb
+C:\Users\NAGAS0\source\repos\uygulama32\uygulama32\obj\Debug\uygulama32.csproj.SuggestedBindingRedirects.cache
+C:\Users\NAGAS0\source\repos\uygulama32\uygulama32\obj\Debug\uygulama32.Form1.resources
+C:\Users\NAGAS0\source\repos\uygulama32\uygulama32\obj\Debug\uygulama32.Properties.Resources.resources
+C:\Users\NAGAS0\source\repos\uygulama32\uygulama32\obj\Debug\uygulama32.csproj.GenerateResource.cache
+C:\Users\NAGAS0\source\repos\uygulama32\uygulama32\obj\Debug\uygulama32.csproj.CoreCompileInputs.cache
+C:\Users\NAGAS0\source\repos\uygulama32\uygulama32\obj\Debug\uygulama32.exe
+C:\Users\NAGAS0\source\repos\uygulama32\uygulama32\obj\Debug\uygulama32.pdb
